@@ -1,6 +1,6 @@
 ### Install: 
 ```bash
-git clone "https://github.com/KalleHallden/ProjectInitializationAutomation.git"
+git clone "https://github.com/naitik2314/ProjectInitializationAutomation.git"
 cd ProjectInitializationAutomation
 pip install -r requirements.txt
 touch .env
